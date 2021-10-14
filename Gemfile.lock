@@ -217,6 +217,8 @@ GEM
       actionpack (>= 4.0)
       activesupport (>= 4.0)
       sprockets (>= 3.0.0)
+    tailwindcss-rails (0.5.1)
+      rails (>= 6.0.0)
     temple (0.8.2)
     terminal-table (2.0.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
@@ -256,9 +258,14 @@ DEPENDENCIES
   simplecov-console (~> 0.7.2)
   slim (~> 4.0)
   sprockets-rails (~> 3.2.2)
+  tailwindcss-rails (~> 0.5.1)
   view_component!
   yard (~> 0.9.25)
   yard-activesupport-concern
 
 BUNDLED WITH
+<<<<<<< HEAD
    2.2.33
+=======
+   2.2.28
+>>>>>>> 4118a0c (Support component generator for tailwindcss-rails)
