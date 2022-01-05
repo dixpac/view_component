@@ -261,8 +261,4 @@ DEPENDENCIES
   yard-activesupport-concern
 
 BUNDLED WITH
-<<<<<<< HEAD
    2.2.33
-=======
-   2.2.28
->>>>>>> 4118a0c (Support component generator for tailwindcss-rails)
